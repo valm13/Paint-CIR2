@@ -10,7 +10,7 @@
 
 ## Introduction
 
-> Ce programme est un logiciel de dessin créer en année de CIR2 dans le cadre du projet JAVA, créer par Valentin Magnan.
+> Ce programme est un logiciel de dessin crée en  CIR2 dans le cadre du projet JAVA.
 
 
 ## Installation
